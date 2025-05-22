@@ -23,13 +23,13 @@ To replicate the results:
 3. Run the main `.do` file:
 
 ``` stata
-do analysis.do
+do JMP_Replication.do
 ```
 
 Or for Neal & Johnson:
 
 ``` stata
-do nj_replication.do
+do NJ_Replication_BM.do
 ```
 
 
