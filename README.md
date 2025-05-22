@@ -21,11 +21,12 @@ To replicate the results:
 1. Open Stata
 2. Navigate to the appropriate folder (`JMP1991/do_files/` or `NJ1996/do_files/`).
 3. Run the main `.do` file:
-   ```stata
-      do analysis.do
-  ```
-     do nj_replication.do
-  ```
+
+```stata
+do analysis.do
+Or for Neal & Johnson:
+do nj_replication.do
+
 
 ## Note: 
 While the data is publicly available, it is not saved in these files.
