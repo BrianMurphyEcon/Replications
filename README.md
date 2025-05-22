@@ -42,9 +42,9 @@ While the data is publicly available, it is not saved in these files.
 
 If you use this repository, please cite the original studies:
 
-- Juhn, Chinhui, Kevin M. Murphy, and Brooks Pierce. 1991. *Accounting for the Slowdown in Black-White Wage Convergence.* American Economic Review, 81(2): 410–415.
+- Juhn, Chinhui, Kevin M. Murphy and Brooks Pierce (1991), "Accounting for the slowdown in black-white wage convergence" in: Marvin H. Kosters, ed., Workers and their wages (AEI Press, Washington, DC)
 
-- Neal, Derek, and William R. Johnson. 1996. *The Role of Premarket Factors in Black-White Wage Differences.* Journal of Political Economy, 104(5): 869–895.
+- Neal, Derek and Johnson, William, (1996), The Role of Premarket Factors in Black-White Wage Differences, Journal of Political Economy, 104, issue 5, p. 869-95.
 
 ---
 
