@@ -22,10 +22,15 @@ To replicate the results:
 2. Navigate to the appropriate folder (`JMP1991/do_files/` or `NJ1996/do_files/`).
 3. Run the main `.do` file:
 
-```stata
+``` stata
 do analysis.do
+```
+
 Or for Neal & Johnson:
+
+``` stata
 do nj_replication.do
+```
 
 
 ## Note: 
